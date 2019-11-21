@@ -3,7 +3,7 @@
 # Author: Vadim Kalinnikov
 # E-Mail: moose@ylsoftware.com
 #
-# Description: MRTG script for get data from NUT
+# Description: MRTG script for gettings data from NUT (Network UPS Tool)
 #
 
 use strict;

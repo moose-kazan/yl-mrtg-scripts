@@ -4,7 +4,7 @@
 # E-Mail: moose@ylsoftware.com
 #
 # Description:
-#     MRTG script for get data from Huaawei HiLink modem/router
+#     MRTG script for getting data from Huawei HiLink modem/router
 #     Tested with devices:
 #         Name:               B525s-23a
 #         Hardware version:   WL1B520FM
