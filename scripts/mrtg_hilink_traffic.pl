@@ -3,6 +3,8 @@
 # Author: Vadim Kalinnikov
 # E-Mail: moose@ylsoftware.com
 #
+# Licensed under terms and conditions of GNU LGPL v3.0
+#
 # Description:
 #     MRTG script for getting data from Huawei HiLink modem/router
 #     Tested with devices:
