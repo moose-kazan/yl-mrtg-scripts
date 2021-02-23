@@ -27,6 +27,16 @@
 #         Hardware version:   CH1E3272SM
 #         Software version:   22.436.07.02.161
 #         WebUI version:      13.100.04.03.161
+#
+#         Name:               Huawei E8372s-153
+#         Hardware version:   CL1E8372HM
+#         Software version:   21.333.63.01.778
+#         WebUI version:      17.100.21.02.778
+#
+#         Name:               Tele2 RUS 4G (Huawei E3372h-153)
+#         Hardware version:   CL2E3372HM
+#         Software version:   22.328.62.01.391
+#         WebUI version:      17.100.19.01.391
 
 use strict;
 use warnings;
