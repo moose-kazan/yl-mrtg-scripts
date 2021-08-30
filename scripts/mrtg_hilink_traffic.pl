@@ -37,6 +37,11 @@
 #         Hardware version:   CL2E3372HM
 #         Software version:   22.328.62.01.391
 #         WebUI version:      17.100.19.01.391
+#
+#         Name:               MTS 8213FT (Huawei E5785LH-22C)
+#         Hardware version:   CL1E5785SM
+#         Software version:   21.187.63.00.143
+#         WebUI version:      21.100.42.00.143
 
 use strict;
 use warnings;
