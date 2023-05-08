@@ -42,6 +42,11 @@
 #         Hardware version:   CL1E5785SM
 #         Software version:   21.187.63.00.143
 #         WebUI version:      21.100.42.00.143
+#
+#         Name:               Huawei E3372-325
+#         Hardware version:   CL5E3372M
+#         Software version:   3.0.2.62(H057SP9C983)
+#         WebUI version:      3.0.2.62(W13SP5C7702)
 
 use strict;
 use warnings;
